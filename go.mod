@@ -1,4 +1,4 @@
-module termcolor
+module github.com/lmueller/termcolor
 
 go 1.23.2
 
